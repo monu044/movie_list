@@ -82,8 +82,7 @@ public class App {
             Booking b = new Booking();
             b.create_new_booking("Single", "Monk", d, d);
         }
-//        Booking b = new Booking();
-//        b.remove(56287);
+        // perform operations
     }
 }
 /*
